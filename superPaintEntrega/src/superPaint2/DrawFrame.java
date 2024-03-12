@@ -64,6 +64,7 @@ public class DrawFrame extends JFrame
      * Initializes widgets for buttons, comboboxes and checkbox
      * It also adds event handlers for the widgets
      */
+    
     public DrawFrame()
     {
         super("SuperPaint Application v2.0!"); //sets the name of DrawFrame
